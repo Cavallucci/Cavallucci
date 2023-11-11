@@ -5,7 +5,7 @@
   - An Electron Automatisations App for 'CEP'
   - A website and algorithmic project dedicated to power sports athletes
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on **Any interesting project compatible with my skills**
 
